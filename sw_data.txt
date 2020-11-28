@@ -1,1 +1,5 @@
-SW Seed Calculator v5.01
+SW Seed Calculator v5.02
+20000
+
+
+
