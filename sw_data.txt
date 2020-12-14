@@ -1,5 +1,5 @@
 SW Seed Calculator v5.02
-20003
+20020
 
 
 
