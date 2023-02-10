@@ -1,4 +1,2 @@
 SW Seed Calculator v5.04
-20090
-
-
+200900
